@@ -8,6 +8,6 @@ permalink: /about.html
 
 
 
-## This website was made from the Allan Lab's template for academic research groups.
+### Make your own
 
-Many thanks. They welcome you to [do so yourself.](http://www.allanlab.org/aboutwebsite.html)
+This website was built off of the Allan Lab's [template for academic research groups.](http://www.allanlab.org/aboutwebsite.html)
