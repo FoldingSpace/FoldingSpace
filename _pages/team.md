@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Team"
+title: "folding space collaborators"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "folding space collaborators"
 sitemap: false
-permalink: /team/
+permalink: /collaborators/
 ---
 
-# Group Members
+# collaborators
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
