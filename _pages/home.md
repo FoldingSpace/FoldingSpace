@@ -1,11 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "foldingspace"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "foldingspace and the UBC geographical computation lab"
 sitemap: false
 permalink: /
 ---
 
+A page.
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
 
